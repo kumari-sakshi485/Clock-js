@@ -1,2 +1,2 @@
 # Clock-js
-Clock bye using html,css,js
+Clock by using html,css,js
